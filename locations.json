@@ -2366,6 +2366,30 @@
 			{"lat": -72.722, "lng": -41.072},
 			{"lat": -75.239, "lng": -49.949}
 		]
+	},
+
+	{
+		"id": 0,
+		"type": "Territories",
+		"title": "Reserved",
+		"notes": "This area is reserved and protected by an NDA.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "333366",
+		"fillcolor": "333366",
+		"latlngarray": [
+			{"lat": -71.721, "lng": -22.195},
+			{"lat": -71.742, "lng": -21.855},
+			{"lat": -72.477, "lng": -18.932},
+			{"lat": -73.082, "lng": -20.404},
+			{"lat": -73.796, "lng": -20.448},
+			{"lat": -74.079, "lng": -21.602},
+			{"lat": -73.876, "lng": -22.404},
+			{"lat": -73.493, "lng": -24.535},
+			{"lat": -72.769, "lng": -23.129},
+			{"lat": -72.401, "lng": -22.657},
+			{"lat": -71.738, "lng": -22.547}
+		]
 	}
 	
 
