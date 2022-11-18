@@ -1,4 +1,4 @@
-NoPixel Territory map
+Millers Estate Agents Map
 ====
 [Live page](https://heaton3.github.io/)
 This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
