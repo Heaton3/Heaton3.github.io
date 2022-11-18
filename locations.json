@@ -2337,8 +2337,8 @@
 	{
 		"id": 2001,
 		"type": "Territories",
-		"title": "KYNA",
-		"notes": "",
+		"title": "Reserved",
+		"notes": "The area is reserved for KYNA sales only.",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "bd3215",
